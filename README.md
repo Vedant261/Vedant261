@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant261&label=Profile%20views&color=0e75b6&style=flat" alt="vedant261" /> </p>
 
-- 🔭 I’m currently working on **Solidity & Blockchain Projects**
+- 🔭 I’m currently working on **Deep Learning Projects**
 
 - 🌱 I’m currently learning **Javascipt ,React js**
 
-- 👯 I’m looking to collaborate on **WEB3 Space**
+- 👯 I’m looking to collaborate on **Software Engineer**
 
 - 🤝 I’m looking for help with **Software Devloper Intern**
 
