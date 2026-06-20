@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant261&label=Profile%20views&color=0e75b6&style=flat" alt="vedant261" /> </p>
 
-* 🔭 I’m currently working on **Scalable AI Agents, Deep Learning Systems, and Full-Stack Applications**
+- 🔭 I’m currently working on **Deep Learning Projects**
 
-* 🌱 I’m continuously improving my expertise in **Advanced AI, System Design, and Modern Web Technologies**
+- 🌱 I’m currently learning **Javascipt ,React js**
 
-* 👯 I’m looking to collaborate on **AI-driven Products, SaaS Platforms, and Innovative Software Solutions**
+- 👯 I’m looking to collaborate on **Software Engineer**
 
-* 🤝 I’m open to **Freelance Projects, Consulting, and High-Impact Engineering Opportunities**
+- 🤝 I’m looking for help with **Software Devloper Intern**
 
-* 📫 How to reach me **[vedantpatil5625@gmail.com](mailto:vedantpatil5625@gmail.com)**
+- 📫 How to reach me **vedantpatil5625@gmail.com**
 
-* ⚡ **Passionate about building real-world solutions and actively trading in the stock market**
+- ⚡ **I Love to trade in share market**
 
 
 <h3 align="left">Connect with me:</h3>
