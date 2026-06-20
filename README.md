@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Suryawanshi</h1>
 <h3 align="center">🚀 Senior AI Engineer | AI Agent Developer | Full Stack Developer | Problem Solver</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=vedant261&label=Profile%20views&color=0e75b6&style=flat" alt="vedant261" /> 
