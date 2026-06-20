@@ -1,32 +1,90 @@
-<h1 align="center">Hi 👋, I'm Vedant Suryawanshi !!</h1>
-<h3 align="center">CS'24 Undergrad... A passionate developer from India</h3>
-<img align="right"alt="coding"width="400"src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<h1 align="center">Hi 👋, I'm Vedant Suryawanshi</h1>
+<h3 align="center">🚀 Senior AI Engineer | AI Agent Developer | Full Stack Developer | Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant261&label=Profile%20views&color=0e75b6&style=flat" alt="vedant261" /> </p>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-* 🔭 I’m currently working on **Scalable AI Agents, Deep Learning Systems, and Full-Stack Applications**
-
-* 🌱 I’m continuously improving my expertise in **Advanced AI, System Design, and Modern Web Technologies**
-
-* 👯 I’m looking to collaborate on **AI-driven Products, SaaS Platforms, and Innovative Software Solutions**
-
-* 🤝 I’m open to **Freelance Projects, Consulting, and High-Impact Engineering Opportunities**
-
-* 📫 How to reach me **[vedantpatil5625@gmail.com](mailto:vedantpatil5625@gmail.com)**
-
-* ⚡ **Passionate about building real-world solutions and actively trading in the stock market**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/vedant-suryawanshi-ab4b4a244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/vedant-suryawanshi-ab4b4a244" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/vedant.suryawanshipatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vedant.suryawanshipatil" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ved_patil_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ved_patil_01/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/03_10v/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/03_10v/" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=vedant261&label=Profile%20views&color=0e75b6&style=flat" alt="vedant261" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+## 🧠 About Me
 
+* 🔭 Currently building **AI Agents, LLM Applications & Scalable Systems**
+* 🌱 Exploring **OpenAI, LangChain, LLMs, and Automation (N8N)**
+* 👯 Open to collaborate on **AI Products, SaaS & Smart Solutions**
+* 🤝 Available for **Freelance Projects & Consulting**
+* ⚡ Passionate about **AI, automation & stock market trading**
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 💻 Programming & Core
+
+`Python` `JavaScript` `Java`
+
+### 🤖 AI / ML / LLM
+
+`OpenAI API` `LangChain` `LLMs` `TensorFlow` `PyTorch` `NLP`
+
+### 🌐 Web Development
+
+`React.js` `Next.js` `Node.js` `HTML` `CSS`
+
+### ⚙️ Automation & Tools
+
+`N8N` `Docker` `AWS` `Git` `GitHub` `VS Code`
+
+---
+
+## 🚀 Projects
+
+◆ **AI Sports Assessment** – AI-based performance analysis web app
+
+◆ **NeuroWell** – Brain patient support & monitoring system
+
+◆ **Krushi Mitra** – Smart agriculture assistant
+
+◆ **Air Quality Prediction** – AI model for environmental monitoring
+
+◆ **AI Chatbot (College)** – Intelligent chatbot system
+
+◆ **AI Grievance System** – Government complaint platform
+
+◆ **Placement Recommendation System** – AI-based placement solution
+
+◆ **Sign Language Interpreter** – Freelance AI-based gesture recognition
+
+---
+
+## 🏆 Achievements
+
+✔ Kaggle Top Performer – Record.ai Competition
+
+✔ HackerEarth Runner-Up – Machine Learning Competition
+
+✔ Delivered **30+ Freelancing Projects**
+
+---
+
+## 📬 Connect with Me
+
+📧 Email: [vedantpatil5625@gmail.com](mailto:vedantpatil5625@gmail.com)
+
+🌐 Portfolio: https://vedantsuryawanshi.in
+
+💼 LinkedIn: https://www.linkedin.com/in/vedant-suryawanshi-ab4b4a244/
+
+📌 GitHub: https://github.com/vedant261
+
+---
+
+## 💡 Quote
+
+⭐ *"Building intelligent systems that turn ideas into real-world impact."* ⭐
+
+---
+
+⭐ If you like my work, consider giving a ⭐ to my repositories!
